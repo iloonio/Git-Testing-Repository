@@ -1,3 +1,5 @@
 the quick brown fox jumps over the lazy dog
 
 the lazy dog sleeps under the quick, jumping, brown fox.
+
+Merge Conflicts are inevitable!!!
